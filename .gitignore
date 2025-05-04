@@ -1,0 +1,21 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Model files
+/models/*.pkl
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data
+*.csv
